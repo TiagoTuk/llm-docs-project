@@ -1,0 +1,11 @@
+# Conda / Python
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Dados
+data/
