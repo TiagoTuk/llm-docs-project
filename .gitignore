@@ -9,3 +9,18 @@ __pycache__/
 
 # Dados
 data/
+
+# Ambiente virtual
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Pyenv
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
